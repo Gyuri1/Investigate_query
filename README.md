@@ -7,8 +7,8 @@ Use:
 
 
 Domainfile should look like:
-domain1.com
-domain2.com
+- domain1.com
+- domain2.com
 ....
 
 I attached an example file as well (domains5.txt)
