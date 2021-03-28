@@ -2,7 +2,7 @@
 
 Please update the script with your invetigate token API key!
 
-- Use:
+- Run this way:
    -     python investigate_domains domainfile.txt
 
 
