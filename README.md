@@ -6,9 +6,9 @@
 
 
 
-Domainfile should look like:
+Domainfile should look like (one domainname per line):
 - domain1.com
 - domain2.com
-....
+- ....
 
 I attached an example file as well (domains5.txt).
