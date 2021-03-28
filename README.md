@@ -1,6 +1,6 @@
 # This python script shows the result of the Umbrella Investigate analysis.
 
-Please update the script with your invetigate token API key!
+Please update the script with your Umbrella Invetigate token API key!
 
 - Run this way:
    -     python investigate_domains domainfile.txt
