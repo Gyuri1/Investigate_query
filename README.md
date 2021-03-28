@@ -1,4 +1,4 @@
-#This python script shows the result of the Umbrella Investigate analysis.
+# This python script shows the result of the Umbrella Investigate analysis.
 
 - Use:
    -     python investigate_domains domainfile.txt
