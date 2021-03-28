@@ -6,7 +6,7 @@
 
 
 
-Domainfile should look like (one domainname per line):
+Domainfile should look like (one domain name per line WITHOUT HTTPS://):
 - domain1.com
 - domain2.com
 - ....
